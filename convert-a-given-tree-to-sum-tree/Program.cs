@@ -30,7 +30,7 @@ namespace convert_a_given_tree_to_sum_tree
         }
 
 
-        // https://www.geeksforgeeks.org/convert-a-given-tree-to-sum-tree/
+        //https://www.geeksforgeeks.org/convert-a-given-tree-to-sum-tree/
         static int ToSumTree(Node root)
         {
             if (root == null) return 0;
